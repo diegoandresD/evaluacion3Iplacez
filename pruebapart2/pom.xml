@@ -9,6 +9,10 @@
   <packaging>war</packaging>
   
   <name>pruebawar</name>
+
+   <modules>
+        <module>pruebapart2</module>
+    </modules>
   <dependencies>
         <!-- runtime dependency -->
         <dependency>
